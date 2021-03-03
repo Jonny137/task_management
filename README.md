@@ -1,7 +1,7 @@
-<img src="https://nestjs.com/img/logo_text.svg" width="200px" alt="Nest Logo" />
+<img src="https://nestjs.com/img/logo_text.svg" width="150px" alt="Nest Logo" />&nbsp;&nbsp;&nbsp;
 <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"
      alt="Markdown SQL icon"
-     width="60px"
+     width="50px"
 />
 ## Description
 
