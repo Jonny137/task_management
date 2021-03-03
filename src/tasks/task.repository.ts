@@ -27,7 +27,7 @@ export class TaskRepository extends Repository<Task> {
                 Data: ${createTaskDto}`,
                 error.stack,
             );
-            throw new InternalServerErrorException()
+            throw new InternalServerErrorException();
         }
         delete task.user;
 
